@@ -33,7 +33,6 @@ Supressed three warnings in the Revisions Class with "WeakerAccess" due to a pri
 Supressed one warning in UserInterface on the TableView method with "Unchecked" due the ide's desire to convert it to a variable
 
 Authors:
-Chris Bucker
+Chris Bucker,
 John Howard
 
-Acknowledgements:
